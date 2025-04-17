@@ -86,9 +86,4 @@ npm run dev
 - 📊 A/B testing simulator for pricing strategies
 
 ---
-
-## ✨ Author
-
-Shakti Singh Rathaur 
-
 ```
